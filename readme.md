@@ -17,7 +17,7 @@ This project implements a Go server with two endpoints for sorting arrays sequen
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/aegon10/sorting-apis-go.git
+git clone https://github.com/mihirwankhade10/go_sorting_apis.git
 cd sorting-apis-go
 
 # Build the Go application
